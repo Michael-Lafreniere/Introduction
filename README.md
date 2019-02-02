@@ -1,15 +1,15 @@
-#Hello there and welcome:
-#------------------------
+# Hello there and welcome:
+# ------------------------
 
 Here you will find brief descriptions and links to my other public github projects, tutorials and general repositories which will have more feature complete descriptions, usage guides, etc.
 
-##Projects/Tutorials:
-##-------------------
+## Projects/Tutorials:
+## -------------------
 
 None yet, coming soon!
 
-##About Me:
-##---------
+## About Me:
+## ---------
 
 For now though, a brief introduction to me as a developer.
 
